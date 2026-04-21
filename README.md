@@ -5,10 +5,6 @@
   ### Personal Proxy Tool Configuration Collection
   **个人代理工具配置文件集合**
 
-  [![Provider](https://img.shields.io/badge/Provider-ZRJ-f97316?style=flat-square)](https://hizrj.xyz/#/register?code=BwiZnFLE)
-  [![Register](https://img.shields.io/badge/Register-Open_Link-0f766e?style=flat-square)](https://hizrj.xyz/#/register?code=BwiZnFLE)
-
-
   [![Clash](https://img.shields.io/badge/Clash-Meta-blue?style=flat-square&logo=clash)](Clash.yaml) [![Surge](https://img.shields.io/badge/Surge-5-orange?style=flat-square)](https://github.com/ClashConnectRules/Surge) [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
   [**Features**](#-features) • [**Clash**](#-clash-configuration) • [**Surge**](#-surge-configuration) • [**Providers**](#-multiple-proxy-providers) • [**Sources**](#-rule-sources)
