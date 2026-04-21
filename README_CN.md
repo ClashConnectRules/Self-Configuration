@@ -5,10 +5,6 @@
   ### 个人代理工具配置文件集合
   **Personal Proxy Tool Configuration Collection**
 
-  [![推荐机场](https://img.shields.io/badge/推荐机场-ZRJ-f97316?style=flat-square)](https://hizrj.xyz/#/register?code=BwiZnFLE)
-  [![立即注册](https://img.shields.io/badge/立即注册-Open_Link-0f766e?style=flat-square)](https://hizrj.xyz/#/register?code=BwiZnFLE)
-
-  **优质机场推荐：** [ZRJ](https://hizrj.xyz/#/register?code=BwiZnFLE)
 
   [![Clash](https://img.shields.io/badge/Clash-Meta-blue?style=flat-square&logo=clash)](Clash.yaml) [![Surge](https://img.shields.io/badge/Surge-5-orange?style=flat-square)](https://github.com/ClashConnectRules/Surge) [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
