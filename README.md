@@ -15,6 +15,8 @@
 
 ---
 
+> **Subscription**: [Register here](https://hizrj.xyz/#/register?code=BwiZnFLE) to get your subscription URL for proxy nodes.
+
 ## ✨ Features
 
 - 🚀 **High Performance** - Optimized configurations for maximum speed
