@@ -15,7 +15,7 @@
 
 ---
 
-> **Subscription**: [Register here](https://hizrj.xyz/#/register?code=qpdHySHz) to get your subscription URL for proxy nodes.
+> **Subscription**: [Register here](https://wcloud.me/register?aff=G0o8UOvu) to get your subscription URL for proxy nodes.
 
 ## ✨ Features
 
